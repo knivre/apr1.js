@@ -1,7 +1,7 @@
 /*
  * A JavaScript implementation of the APR1 hash.
  * Version 1.0
- * Copyright (c) 2018 Knivre T.
+ * Copyright (c) 2018-2019 Knivre T.
  * Distributed under the MIT license.
  * Requires md5.js from Paul Johnston's jshash: http://pajhome.org.uk/crypt/md5/
  */
